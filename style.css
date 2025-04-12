@@ -14,10 +14,10 @@ div#menu > ul li a {
   color: white;
 }
 #search {
-  background-color: rgba(255, 166, 0, 0.712);
+  background-color: rgba(187, 148, 74, 0.712);
 }
 #searchbtn {
-  background-color: rgba(255, 68, 0, 0.767);
+  background-color: rgba(136, 57, 28, 0.781);
   color: white;
   border-radius: 5px;
 }
@@ -47,22 +47,22 @@ div#menu > ul li a {
 }
 
 #line {
-  background-color: rgba(0, 0, 255, 0.082);
+  background-color: rgba(22, 22, 53, 0.082);
 }
 div#newaccount legend,
 .btn {
-  background-color: blueviolet;
+  background-color: rgb(48, 42, 121);
   color: white;
 }
 #compare {
-  border: 1px solid orangered;
+  border: 1px solid rgb(190, 93, 57);
 }
 #compare th {
-  background-color: orangered;
+  background-color: rgb(190, 93, 57);
   color: white;
 }
 #compare td {
-  border: 1px solid orangered;
+  border: 1px solid rgb(190, 93, 57);
 }
 
 #note {
